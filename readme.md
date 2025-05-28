@@ -120,4 +120,4 @@ If you wish to create a PR or update the code here:
 
 ## Code Standards
 
-[Per](https://www.php-fig.org/per/coding-style/) coding styles are followed.
+[PER-CS](https://www.php-fig.org/per/coding-style/) coding styles are followed.
